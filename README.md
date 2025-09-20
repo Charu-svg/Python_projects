@@ -6,19 +6,16 @@ Each project demonstrates concepts like data analysis, visualization, machine le
 ---
 
 ## 📌 Projects Included
-1. **Calculator CLI App**  
-   - A command-line calculator that supports basic arithmetic operations.  
-   - Tech: Python  
-
-2. **Data Analysis with Pandas**  
+  
+1. **Data Analysis with Pandas**  
    - Loads CSV files and performs basic data analysis.  
    - Includes bar charts, scatter plots, and heatmaps using Matplotlib.  
 
-3. **House Price Prediction Model**  
+2. **House Price Prediction Model**  
    - Linear regression model to predict house prices based on features.  
    - Tech: Pandas, Scikit-learn, Matplotlib  
 
-4. **Matrix Operations Tool**  
+3. **Matrix Operations Tool**  
    - Python script to perform addition, subtraction, and multiplication of matrices.  
 
 ---
